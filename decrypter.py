@@ -22,6 +22,7 @@ def caesar_decrypt(text):
     # returning the decrypted text
     return decrypted_text
 
+# main 
 message = input("Enter text to decrypt: ") # taking input from user
 result = caesar_decrypt(message) # call to caesar decrypt function
 print("Decrypted text:", result)  # displaying decrypted text 
