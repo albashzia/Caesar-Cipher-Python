@@ -8,7 +8,7 @@ The program shifts alphabetical characters by a fixed number of positions,
 preserves letter case, and leaves non-alphabet characters unchanged.
 
 
-## 🔐 How It Works
+##  How It Works
 
 - Each alphabetical character is shifted by **3 positions**
 - Encryption shifts letters forward  
@@ -20,7 +20,7 @@ preserves letter case, and leaves non-alphabet characters unchanged.
 - Spaces, numbers, and symbols remain unchanged
 
 
-## 🧭 Menu-Based Interface
+##  Menu-Based Interface
 
 When the program runs, the user is presented with a menu:
 
@@ -32,7 +32,7 @@ This allows the user to interactively choose between encryption and decryption
 within a single console application.
 
 
-## 📁 Project Structure
+##  Project Structure
 
 - `caesar_cipher.py` — Main menu-driven program (controls program flow)
 - `encrypter.py` — Handles Caesar Cipher encryption logic
@@ -40,7 +40,7 @@ within a single console application.
 - `README.md` — Project documentation
 
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - String traversal
 - Conditional statements
@@ -51,7 +51,7 @@ within a single console application.
 - User input handling
 
 
-## 🎯 Purpose of This Project
+##  Purpose of This Project
 
 This project is intended for beginners to practice:
 - Logical thinking
